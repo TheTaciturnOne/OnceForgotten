@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:tempus_dust"
+    },
+    "title": "Lavender Haze",
+    "description": "Formulate some Tempus Dust",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "onceforgotten:tempus_dust"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onceforgotten:lapis_lazuli_dust"
+    },
+    {
+      "item": "onceforgotten:lapis_lazuli_dust"
+    },
+    {
+      "item": "onceforgotten:lapis_lazuli_dust"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+
+  "result": {
+    "item": "onceforgotten:tempus_dust"
+  }
+}

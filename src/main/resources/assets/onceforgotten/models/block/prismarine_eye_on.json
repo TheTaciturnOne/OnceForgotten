@@ -1,0 +1,7 @@
+{
+  "parent": "onceforgotten:block/prismarine_eye",
+  "textures": {
+    "front": "onceforgotten:block/prismarine_eye_activated",
+    "side": "onceforgotten:block/prismarine_eye_activated_side"
+  }
+}

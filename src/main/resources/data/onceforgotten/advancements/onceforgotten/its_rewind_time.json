@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:reversed_exposed_clockwork_mechanism"
+    },
+    "title": "It's Rewind Time!",
+    "description": "Reverse the oxidation of a Clockwork Mechanism with Tempus Dust",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/lavender_haze",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "onceforgotten:reversed_clockwork"
+
+          }
+        ]
+      }
+    }
+  }
+}

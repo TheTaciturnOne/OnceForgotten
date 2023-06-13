@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    "W# ",
+    "XW "
+  ],
+  "key": {
+    "#": {
+      "item": "onceforgotten:block_of_uru"
+    },
+    "W": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "onceforgotten:uru_longsword"
+  }
+}

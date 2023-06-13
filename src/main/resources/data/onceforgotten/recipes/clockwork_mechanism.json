@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "c": {
+      "item": "onceforgotten:copper_nugget"
+    },
+    "o": {
+      "item": "onceforgotten:copper_gear"
+    }
+  },
+  "pattern": [
+    "#c#",
+    "coc",
+    "#c#"
+  ],
+  "result": {
+    "item": "onceforgotten:clockwork_mechanism"
+  }
+}

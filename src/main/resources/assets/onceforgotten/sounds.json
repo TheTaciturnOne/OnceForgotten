@@ -1,0 +1,21 @@
+{
+  "clockwork_ticks": {
+    "subtitle": "subtitles.onceforgotten.clockwork_ticks",
+    "sounds": [
+      "onceforgotten:clockwork_mechanism"
+    ]
+  },
+  "factorus_guardian_hurt": {
+    "subtitle": "subtitles.onceforgotten.fg_hurt",
+    "sounds": [
+      "onceforgotten:fg_hurt1",
+      "onceforgotten:fg_hurt2"
+    ]
+  },
+  "factorus_guardian_death": {
+    "subtitle": "subtitles.onceforgotten.fg_death",
+    "sounds": [
+      "onceforgotten:fg_death"
+    ]
+  }
+}

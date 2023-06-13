@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "onceforgotten:tempus_crystal_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "onceforgotten:tempus_crystal"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:clockwork_mechanism"
+    },
+    "title": "Engineering 101",
+    "description": "Create a Clockwork Mechanism for your redstone contraptions",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/pieces_of_the_machine",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "onceforgotten:clockwork_mechanisms"
+          }
+        ]
+      }
+    }
+  }
+}

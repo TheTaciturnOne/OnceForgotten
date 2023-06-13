@@ -1,0 +1,17 @@
+{
+  "name": "onceforgotten:factorus/supply_room",
+
+  "fallback": "minecraft:empty",
+
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "onceforgotten:supply_rooms/prismarine_room",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

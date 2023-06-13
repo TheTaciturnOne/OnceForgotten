@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "onceforgotten:sootstone_bricks"
+  },
+  "result": "onceforgotten:chiseled_sootstone_bricks"
+}

@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:power_armor"
+    },
+    "title": "Xenomorph Remover",
+    "description": "Find and repair the Power Armor",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/industrial_remnants",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "onceforgotten:power_armor"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 300
+  }
+}

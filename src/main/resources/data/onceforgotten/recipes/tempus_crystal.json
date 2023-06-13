@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "onceforgotten:tempus_dust"
+    },
+    "0": {
+      "tag": "minecraft:natural_gems"
+    }
+  },
+  "pattern": [
+    "###",
+    "#0#",
+    "###"
+  ],
+  "result": {
+    "item": "onceforgotten:tempus_crystal"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "X": {
+      "item": "minecraft:bow"
+    },
+    "4": {
+      "tag": "onceforgotten:clockwork_mechanisms"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "#4#"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:dispenser"
+  }
+}

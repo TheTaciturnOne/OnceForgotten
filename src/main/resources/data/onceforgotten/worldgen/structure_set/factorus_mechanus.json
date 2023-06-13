@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "onceforgotten:factorus_mechanus",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "salt": 539389,
+
+    "spacing": 30,
+
+    "separation": 4,
+
+    "type": "minecraft:random_spread",
+    "min_distance_from_world_origin": 100
+  }
+}

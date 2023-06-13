@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "onceforgotten:block/sootstone_bricks",
+    "side": "onceforgotten:block/sootstone_bricks",
+    "top": "onceforgotten:block/sootstone_bricks"
+  }
+}

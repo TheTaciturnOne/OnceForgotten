@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onceforgotten:block/weathered_clockwork_mechanism"
+  }
+}

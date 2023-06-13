@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 120,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "onceforgotten:block_of_raw_uru"
+  },
+  "result": "onceforgotten:raw_uru"
+}

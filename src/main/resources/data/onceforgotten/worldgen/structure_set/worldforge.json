@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "onceforgotten:worldforge",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "salt": 420402687,
+
+    "spacing": 85,
+
+    "separation": 6,
+
+    "type": "minecraft:random_spread",
+    "min_distance_from_world_origin": 100
+  }
+}

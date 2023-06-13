@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "onceforgotten:block/hardened_metal_support"
+  }
+}

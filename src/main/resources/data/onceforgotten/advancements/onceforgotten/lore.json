@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:armor_shard"
+    },
+    "title": "LORE?!?!?!!",
+    "description": "Obtain a new drop from a Blaze",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "onceforgotten:armor_shard"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

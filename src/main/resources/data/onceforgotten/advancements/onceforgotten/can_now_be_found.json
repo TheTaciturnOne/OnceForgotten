@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:uru_waraxe"
+    },
+    "title": ".....Can Now Be Found",
+    "description": "Forge all the Tools of War",
+    "frame": "challenge",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/what_once_was_lost",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "onceforgotten:uru_waraxe"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:uru_warhammer"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:uru_warspade"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:uru_longsword"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 300
+  }
+}

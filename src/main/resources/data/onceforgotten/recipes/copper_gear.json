@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "onceforgotten:copper_nugget"
+    },
+    "X": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "X#X",
+    "#X#"
+  ],
+  "result": {
+    "count": 4,
+    "item": "onceforgotten:copper_gear"
+  }
+}

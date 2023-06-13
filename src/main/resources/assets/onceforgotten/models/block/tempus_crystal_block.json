@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "down": "onceforgotten:block/tempus_crystal_block_bottom",
+    "east": "onceforgotten:block/tempus_crystal_block_east",
+    "north": "onceforgotten:block/tempus_crystal_block",
+    "particle": "onceforgotten:block/tempus_crystal_block",
+    "south": "onceforgotten:block/tempus_crystal_block_south",
+    "up": "onceforgotten:block/tempus_crystal_block_top",
+    "west": "onceforgotten:block/tempus_crystal_block_west"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "onceforgotten:clockwork_mechanism",
+    "onceforgotten:exposed_clockwork_mechanism",
+    "onceforgotten:weathered_clockwork_mechanism",
+    "onceforgotten:oxidized_clockwork_mechanism",
+    "onceforgotten:reversed_exposed_clockwork_mechanism",
+    "onceforgotten:reversed_weathered_clockwork_mechanism",
+    "onceforgotten:reversed_oxidized_clockwork_mechanism"
+  ]
+}

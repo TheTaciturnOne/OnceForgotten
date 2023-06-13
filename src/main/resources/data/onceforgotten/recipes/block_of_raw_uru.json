@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "onceforgotten:armor_shard"
+    }
+  },
+  "result": {
+    "item": "onceforgotten:block_of_raw_uru"
+  }
+}

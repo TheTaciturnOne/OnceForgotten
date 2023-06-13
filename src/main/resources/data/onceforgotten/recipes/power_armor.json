@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "FWF",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "W": {
+      "item": "onceforgotten:tempus_crystal_block"
+    },
+    "X": {
+      "item": "minecraft:copper_block"
+    },
+    "F": {
+      "item": "onceforgotten:powerful_contraption_piece"
+    }
+  },
+  "result": {
+    "item": "onceforgotten:power_armor"
+  }
+}

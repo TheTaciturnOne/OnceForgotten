@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:block_of_raw_uru"
+    },
+    "title": "What Once Was Lost.....",
+    "description": "Find relics of an ancient war",
+    "frame": "task",
+    "hidden": false,
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/heliocentric_headquarters",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "onceforgotten:block_of_raw_uru"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

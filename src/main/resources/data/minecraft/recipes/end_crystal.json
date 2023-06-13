@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "onceforgotten:tempus_crystal_block"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "T": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GEG",
+    "GTG"
+  ],
+  "result": {
+    "item": "minecraft:end_crystal"
+  }
+}

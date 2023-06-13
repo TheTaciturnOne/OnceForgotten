@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "onceforgotten:tempus_dust"
+    },
+    "0": {
+      "item": "onceforgotten:weathered_clockwork_mechanism"
+    }
+  },
+  "pattern": [
+    "###",
+    "#0#",
+    "###"
+  ],
+  "result": {
+    "item": "onceforgotten:reversed_weathered_clockwork_mechanism"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:oxidized_clockwork_mechanism"
+    },
+    "title": "Marvels of Technology",
+    "description": "Collect all of the Clockwork Mechanism variants",
+    "frame": "challenge",
+    "hidden": true,
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/engineering_101",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "onceforgotten:clockwork_mechanism"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:exposed_clockwork_mechanism"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:weathered_clockwork_mechanism"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:oxidized_clockwork_mechanism"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:reversed_exposed_clockwork_mechanism"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:reversed_weathered_clockwork_mechanism"
+            ]
+          },
+          {
+            "items": [
+              "onceforgotten:reversed_oxidized_clockwork_mechanism"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 450
+  }
+}

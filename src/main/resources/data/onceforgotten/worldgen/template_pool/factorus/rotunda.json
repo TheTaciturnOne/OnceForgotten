@@ -1,0 +1,17 @@
+{
+  "name": "onceforgotten:factorus/rotunda",
+
+  "fallback": "minecraft:empty",
+
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "onceforgotten:rotunda/rotunda",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

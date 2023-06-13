@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "onceforgotten:block_of_raw_uru",
+    "onceforgotten:block_of_uru",
+    "onceforgotten:sootstone_bricks",
+    "onceforgotten:sootstone_brick_slab",
+    "onceforgotten:sootstone_brick_stairs",
+    "onceforgotten:sootstone_brick_wall",
+    "onceforgotten:chiseled_sootstone_bricks",
+    "onceforgotten:copper_gear",
+    "onceforgotten:clockwork_mechanism",
+    "onceforgotten:exposed_clockwork_mechanism",
+    "onceforgotten:weathered_clockwork_mechanism",
+    "onceforgotten:oxidized_clockwork_mechanism",
+    "onceforgotten:reversed_exposed_clockwork_mechanism",
+    "onceforgotten:reversed_weathered_clockwork_mechanism",
+    "onceforgotten:reversed_oxidized_clockwork_mechanism",
+    "onceforgotten:tempus_crystal_block"
+  ]
+}

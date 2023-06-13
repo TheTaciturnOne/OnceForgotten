@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "onceforgotten:hardened_metal_plate"
+    },
+    "title": "Heliocentric Headquarters",
+    "description": "Discover the abandoned remains of the Worldforge",
+    "frame": "task",
+    "show_toast": true,
+    "annouce_to_chat": true
+  },
+  "parent": "onceforgotten:onceforgotten/lore",
+  "criteria": {
+    "worldforge": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "onceforgotten:worldforge"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "worldforge"
+    ]
+  ]
+}

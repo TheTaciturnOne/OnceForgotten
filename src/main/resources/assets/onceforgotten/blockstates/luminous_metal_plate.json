@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "onceforgotten:block/luminous_metal_plate_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "onceforgotten:block/luminous_metal_plate"
+    },
+    "axis=z": {
+      "model": "onceforgotten:block/luminous_metal_plate_horizontal",
+      "x": 90
+    }
+  }
+}
